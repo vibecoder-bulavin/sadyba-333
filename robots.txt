@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://vibecoder-bulavin.github.io/sadyba-333/sitemap.xml
